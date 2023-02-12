@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/Israr-Engineering/PMM-10XX-SUBSTATION/blob/main/custom_Board/PMM.zip?raw=true",
           "archiveFileName": "PMM.zip",
-          "checksum": "SHA-256:65EF29B3193C101D3C60F115B2A5637981509396EE57614D290BEF0CE38EA1C4",
-          "size": "7693331",
+          "checksum": "SHA-256:64ED2A11B74621767557CEF2F2E22F41AF02A613213611FA4982668EC9F18986",
+          "size": "7679958",
           "boards": [
            
             {"name": "PMM1002"},

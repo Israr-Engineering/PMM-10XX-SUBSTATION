@@ -85,6 +85,28 @@ extern "C" unsigned int PINCOUNT_fn();
 #define PIN_LED3             PIN_LED_TXL
 #define LED_BUILTIN          PIN_LED_13
 
+
+#define PMM_12MHZIN             (18ul)  //PA14 
+#define PMM_12MHZOUT            (19ul)  //PA15 
+#define PMM_LMul2_S4            (6ul)   //PA08 
+#define PMM_Mul2_S2             (7ul)   //PA09 
+#define PMM_AREF                (46ul)  //PA03 
+#define PMM_Mul2_S1             (22ul)  //PA16 
+#define PMM_Mul2_S0             (24ul)  //PA17 
+#define PMM_SCSn_I              (21ul)  //PA18
+#define PMM_Mul_S2              (13ul)  //PA20 
+#define PMM_Mul_S1              (14ul)  //PA21 
+#define PMM_Mul_S0              (2ul)   //PB08 
+#define PMM_Mul_IO              (3ul)   //PB09 
+#define PMM_Mul_S3              (5ul)   //PA05 
+#define PMM_SERIN               (10ul)  //PA06   
+#define PMM_RCLK                (11ul)  //PA07 
+#define PMM_SWCLK               (48ul)  //PA30 
+#define PMM_SWDIO               (49ul)  //PA31
+#define PMM_SRCLK               (15ul)  //PB02 
+
+
+
 /*
  * Analog pins
  */
